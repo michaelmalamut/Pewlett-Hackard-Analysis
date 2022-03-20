@@ -20,8 +20,6 @@ The purpose of this analysis is to build a database to find out who will be reti
 
 ## Summary
 
-* How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-  -
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-* Are there enough qualified, retirment-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-  -
+### Are there enough qualified, retirment-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
