@@ -22,4 +22,8 @@ The purpose of this analysis is to build a database to find out who will be reti
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-### Are there enough qualified, retirment-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+As the "silver tsunami" begins to make an impact, approximately 90,398 roles will need to be filled as employees are retiring.
+
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+Based on the analysis that Pewlett Hackard is facing over 90,000 vacant positions of the 510,000 employees, the company will face a loss of qualified trained employees because of the low number of employees who are eligible for mentorship to train replacements.
